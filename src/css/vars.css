@@ -1,6 +1,16 @@
 :root {
-  --backgroundColor: #eaeae9;
-  --textColor: #463636;
-  --anotherColor: #bada55;
-  --margin: 2rem;
+  --backgroundColor: #F9D2CB;
+  --darkColor: #212121;
+  --buttonColor: #A3F4DC;
+
+  --bigfontSize: 2.6rem;
+  --mediumfontSize: 1.8rem;
+  --smallfontSize: 1.2rem;
+
+  --smallGap: 0.6rem;
+  --mediumGap: 1.2rem;
+  --bigGap: 3rem;
+
+
+
 }
