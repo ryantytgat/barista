@@ -16,4 +16,6 @@ html {
 /* stylelint-enable */
 
 body {
+  font-family: Roboto;
+  background-color: var(--backgroundColor);
 }
